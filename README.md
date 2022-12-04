@@ -1,5 +1,8 @@
 ![CI](../../workflows/CI/badge.svg) ![Cov](../gh-pages/docs/badge_linecoverage.svg)
 
+## Akka.net 
+* https://getakka.net/articles/actors/dependency-injection.html
+
 ## 일반 actor의 수명주기
 * https://proto.actor/docs/life-cycle/
 
