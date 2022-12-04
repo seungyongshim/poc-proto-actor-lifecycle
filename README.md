@@ -11,7 +11,7 @@
 ## 일반 actor의 수명주기
 * https://proto.actor/docs/life-cycle/
 
-![image](https://user-images.githubusercontent.com/6711748/205475463-9b70de83-fdbf-4cef-bfad-c6b7118052db.png)
+![image](https://user-images.githubusercontent.com/6711748/205475574-0a131d37-f378-4fbd-aab0-f6e28b217d76.png)
 
 ![image](https://user-images.githubusercontent.com/6711748/205473140-5dc89081-8305-4742-9c10-ec131fcb8b8d.png)
 
