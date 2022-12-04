@@ -1,5 +1,10 @@
 ![CI](../../workflows/CI/badge.svg) ![Cov](../gh-pages/docs/badge_linecoverage.svg)
 
+## Understanding Disposable MSDI
+* https://stevetalkscode.co.uk/disposables-in-di-part-1
+* https://stevetalkscode.co.uk/disposables-in-di-part-2
+* https://stevetalkscode.co.uk/disposables-in-di-part-3
+
 ## Akka.net 
 * https://getakka.net/articles/actors/dependency-injection.html
 
